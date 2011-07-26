@@ -20,10 +20,10 @@ no_index:
     - t
     - xt
 requires:
-  Log::Minimal: 0.08
+  Log::Minimal: 0.09
   Plack::Middleware: 0
   parent: 0
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/kazeburo/Plack-Middleware-Log-Minimal.git
-version: 0.05
+version: 0.06
